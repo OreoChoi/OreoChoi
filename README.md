@@ -1,9 +1,5 @@
 ## PORT FOLIO
 
-### Baek Algorithm Rank
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsehdro2)](https://solved.ac/{tlsehdro2})
-
 ### Work Experience
 * 회사 내부 프로젝트 4건, 외주 앱 유지보수 3건
     * 회사 내부 프로젝트 (All Native App)
@@ -65,7 +61,12 @@
 
 
 
+### Baek Algorithm Rank
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsehdro2)](https://solved.ac/{tlsehdro2})
+
+### Github Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OreoChoi&show_icons=true&theme=dracula)
   
-  
+### Most Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreoChoi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
