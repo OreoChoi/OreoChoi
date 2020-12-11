@@ -1,6 +1,9 @@
 ## PORT FOLIO
 
 ### Work Experience
+* 그린리본 (2020/12 ~ )
+
+* 뉴프롬 (2018/12 ~ 2020/05)
 * 회사 내부 프로젝트 4건, 외주 앱 유지보수 3건
     * 회사 내부 프로젝트 (All Native App)
       - Oops!  (To Do List 앱)
