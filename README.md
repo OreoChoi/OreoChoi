@@ -2,7 +2,7 @@
 
 ### Work Experience
 1. Green Ribbon (그린리본)
-      - 로켓보상      (
+      - 로켓보상      (보험금 대행청구 앱)
 2. Newfrom (뉴프롬) 
       - Oops!       (To Do List 앱)
       - 스쿨북        (저학년생 대상 알림장 앱)
@@ -25,8 +25,11 @@ Skill (기술)
       Weather          - OpenWeather
       Map              - Naver, Google, Kakao
       DB               - Room DB, SQLite, Realm
+     
+ 
+  1.4 앱 자동화 처리   - (릴리즈, 디버그) 키 or (AppUpdateManager를 활용한 업데이트 자동화)
   
-  1.4 TDD (Unit, UI)   - Junit (4,5), Mockito, Robolectric, Android Espresso
+  1.5 TDD (Unit, UI)   - Junit (4,5), Mockito, Robolectric, Android Espresso
 
 2. RxJava (현재 공부 중)
   -  비동기처리를 Observer 패턴으로 원만하게 하기위한 라이브러리
