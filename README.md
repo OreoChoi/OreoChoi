@@ -12,10 +12,10 @@
  
 
 Skill (기술)
-1. Android (JAVA, Kotlin) 
-  1.1 Custom View (캘린더, 타이틀, 다이얼로그, 카드 뷰 등등)
-  
-  1.2 Design Pattern (MVC, MVVM, Factory Method, Abstract Factory Method, Builder, Singleton, Adapter)
+1. Android (JAVA, Kotlin)   
+  1.1 Custom View (캘린더, 타이틀, 다이얼로그, 카드 뷰 등등). 
+    
+  1.2 Design Pattern (MVC, MVVM, Factory Method, Abstract Factory Method, Builder, Singleton, Adapter). 
     
   1.3 Use Library. 
       Network          - Retrofit2 , Gson , HttpURLconnection  
@@ -26,7 +26,7 @@ Skill (기술)
       Map              - Naver, Google, Kakao. 
       DB               - Room DB, SQLite, Realm  
       OCR              - Kakao OCR. 
- 
+   
   1.4 앱 자동화 처리   - (릴리즈, 디버그) 키 or (AppUpdateManager를 활용한 업데이트 자동화)
   
   1.5 TDD (Unit, UI)   - Junit (4,5), Mockito, Robolectric, Android Espresso
