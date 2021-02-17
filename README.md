@@ -10,17 +10,16 @@
     - Oops!, 스쿨북          (네이티브 - TODO)
     - KT 기프티쇼, 현대 한섬  (하이브리드 - 기프티콘 &쇼핑몰 )
       
-### Skill  
-  
+### Skill
   1. Android (JAVA, Kotlin)  
 
-  1.1 Custom View  
+    1.1 Custom View  
   
-  1.2 Architecture Pattern Skill (MVC, MVVM, MVP)  
+    1.2 Architecture Pattern Skill (MVC, MVVM, MVP)  
   
-  1.3 Design Pattern (Factory Method, Abstract Factory Method, Builder, Singleton, Adapter)    
+    1.3 Design Pattern (Factory Method, Abstract Factory Method, Builder, Singleton, Adapter)    
 
-  1.4 Use Library  
+    1.4 Use Library  
 
       Network          - Retrofit2  
       JSON             - Gson  
@@ -36,7 +35,7 @@
       Firebase         - Crashlytics, RealTimeDB, Analytics, Remote Config
       RxJava
   
-  1.5 Firebase 
+    1.5 Firebase 
       Crashlytics      - 릴리즈, 디버깅 별 설정 및 유저별 대응이 가능하도록 설정  
                          (빠른 장애 대응과, 추후 동일한 장애 방지를 위해 적용)  
                            
@@ -47,29 +46,29 @@
              
       Remote Config    - FB에서 config값을 조정해 긴급 업데이트에 대한 대응
       
-  1.6 앱 자동화 처리  
+    1.6 앱 자동화 처리  
 
      - Release, Debug 키 자동
      - AppUpdateManager를 활용한 앱 (강제, 권유) 업데이트 자동화
      - Release, Debug 빌드 타입에 따른 버전 생성
   
-  1.7 Google play console  
+    1.7 Google play console  
 
      - (내부 & 공개 & 프로덕션) 배포를 담당 및 관련 이슈 경험
       ex) 구글 signing을 사용하는 경우 앱의 인증서 지문 변경으로 인해 Kakao Login API를 사용하지 못한 이슈 
           해결 : signing sha1 키를 직접 16진수 형태로 변경하여 Kakao에 등록할 키 해시 재 생성 및 등록
        
-  1.8 TDD (Unit, UI)  
+    1.8 TDD (Unit, UI)  
 
     - Junit (4,5), Mockito, Robolectric, Android Espresso  
 
 
-  2. Spring & Mock Server  
+    2. Spring & Mock Server  
 
     - API 구현 및 테스트 
     - Postman을 활용한 mock server를 구축해 서버측 개발이 안되도 임의 서버 구축 및 테스트 활용
 
-  3. Docker  
+    3. Docker  
 
     - Dockerfile 생성 및 컨테이너 구동
  
