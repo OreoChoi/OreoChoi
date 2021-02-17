@@ -1,11 +1,11 @@
 ## PORT FOLIO
 
 ### Work Experience
-  1. Green Ribbon (그린리본)  
+#### 1. Green Ribbon (그린리본)  
 
     - 로켓보상      (보험금 대행청구 앱)
      
-  2. Newfrom (뉴프롬)  
+#### 2. Newfrom (뉴프롬)  
 
     - Oops!, 스쿨북          (네이티브 - TODO)
     - KT 기프티쇼, 현대 한섬  (하이브리드 - 기프티콘 &쇼핑몰 )
