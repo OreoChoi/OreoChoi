@@ -10,8 +10,9 @@
     - Oops!, 스쿨북          (네이티브 - TODO)
     - KT 기프티쇼, 현대 한섬  (하이브리드 - 기프티콘 &쇼핑몰 )
       
-### Skill
-  1. Android (JAVA, Kotlin)  
+### Skill  
+
+#### 1. Android (JAVA, Kotlin)  
 
     1.1 Custom View  
   
@@ -62,13 +63,13 @@
 
     - Junit (4,5), Mockito, Robolectric, Android Espresso  
 
-
-    2. Spring & Mock Server  
+  
+#### 2. Spring & Mock Server  
 
     - API 구현 및 테스트 
     - Postman을 활용한 mock server를 구축해 서버측 개발이 안되도 임의 서버 구축 및 테스트 활용
 
-    3. Docker  
+#### 3. Docker  
 
     - Dockerfile 생성 및 컨테이너 구동
  
