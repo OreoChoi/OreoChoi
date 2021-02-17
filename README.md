@@ -10,13 +10,14 @@
     - Oops!, 스쿨북          (네이티브 - TODO)
     - KT 기프티쇼, 현대 한섬  (하이브리드 - 기프티콘 &쇼핑몰 )
       
-Skill (기술)  
+### Skill  
   
-1. Android (JAVA, Kotlin)   
+  1. Android (JAVA, Kotlin)  
+
   1.1 Custom View  
-
+  
   1.2 Architecture Pattern Skill (MVC, MVVM, MVP)  
-
+  
   1.3 Design Pattern (Factory Method, Abstract Factory Method, Builder, Singleton, Adapter)    
 
   1.4 Use Library  
