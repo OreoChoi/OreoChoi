@@ -3,12 +3,12 @@
 
 ### Introduce.
 3년차 개발자로 인슈어테크 스타트업에서 앱 & 웹을 (기획/개발/배포/운영)하고
-앱 개발자를 시작으로 현재는 PO 역할을 담당하고 있습니다. 
+앱 개발자를 시작으로 현재는 Team Leader 역할을 담당하고 있습니다. 
 
       
 ### Skill 
 
-- Front-End: React, Redux, MobX, JavaScript, TypeScript,  ㅂHTML/CSS 
+- Front-End: React, Redux, MobX, JavaScript, TypeScript,  HTML/CSS 
 - Back-End: Spring Boot, JPA, AWS (EC2, S3)
 - Database : Maria DB, Firebase - RealTime DataBase
 - Data: SQL, Google Analytics
