@@ -14,6 +14,7 @@
 - Data: SQL, Google Analytics
 - Monitoring : Sentry, Firebase - RealTime DataBase(Timber) 
 - Android: Kotlin, JAVA 
+- IOS : Swift
 
 
 ### Work Experience
