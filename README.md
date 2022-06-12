@@ -2,12 +2,13 @@
 
 
 ### Introduce.
+-----
 3년차 개발자로 인슈어테크 스타트업에서 앱 & 웹을 (기획/개발/배포/운영)하고
 앱 개발자를 시작으로 현재는 Team Leader 역할을 담당하고 있습니다. 
 
       
 ### Skill 
-
+-----
 - Front-End: React, Redux, MobX, JavaScript, TypeScript,  HTML/CSS 
 - Back-End: Spring Boot, JPA, AWS (EC2, S3)
 - Database : Maria DB, Firebase - RealTime DataBase
@@ -51,6 +52,7 @@
     
 
 ### Interview.
+-----
 - [그린리본, 2022 월드IT쇼 비대면 보상서비스 '라이프캐치 알려...' 보험정보 불균형 해소할 것!](http://kr.aving.net/news/view.php?articleId=1704221)
 - [놓친 보험금 대신 찾아드립니다 '그린리본'](https://www.edaily.co.kr/news/read?newsId=01695766629015136&mediaCodeNo=257)
 
