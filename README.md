@@ -33,10 +33,10 @@ FrontEnd, Server, AOS Lead
 각 개인이 어떤 장애가 터져도 바로 대응할수있도록 
 장애대응 및 새로운 기술 사용 문화 확산
 ```
-
-[Side Project]
-https://github.com/MeowDevelopers/echo-backend.git
   
+[Side Project]  
+https://github.com/MeowDevelopers/echo-backend.git
+    
 [2021.04 - 2021.11]  
 ```  
 Server, FrontEnd Enginear
