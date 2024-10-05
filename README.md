@@ -3,7 +3,7 @@
 
 ### Introduce.
 -----
-3년차 개발자로 인슈어테크 스타트업에서 앱 & 웹을 (기획/개발/배포/운영)하고
+5년차 개발자로 인슈어테크 스타트업에서 앱 & 웹을 (기획/개발/배포/운영)하고
 앱 개발자를 시작으로 현재는 Team Leader 역할을 담당하고 있습니다. 
 
       
@@ -33,6 +33,9 @@ FrontEnd, Server, AOS Lead
 각 개인이 어떤 장애가 터져도 바로 대응할수있도록 
 장애대응 및 새로운 기술 사용 문화 확산
 ```
+
+[Side Project]
+https://github.com/MeowDevelopers/echo-backend.git
   
 [2021.04 - 2021.11]  
 ```  
