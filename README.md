@@ -10,14 +10,12 @@
 ### Skill 
 -----
 - Front-End: React, Redux, MobX, JavaScript, TypeScript,  HTML/CSS 
-- Back-End: Spring Boot, JPA, AWS (EC2, S3)
-- Database : Maria DB, Firebase - RealTime DataBase
-- Data: SQL, Google Analytics
-- Monitoring : Sentry, Firebase - RealTime DataBase(Timber) 
-- Android: Kotlin, JAVA 
-- IOS : Swift
+- Back-End: Spring Boot, JPA, AWS (EC2, S3, RDS, LAMBDA), Docker
+- Database : MySql, Firebase - RealTime DataBase, Radis, PostgreSql
+- Data: 핵클, 그라파나, Google Analytics
+- Monitoring : Sentry, Firebase - RealTime DataBase(Timber), DataDogs 
+- Android: Kotlin, JAVA
 
-- 
 [프로덕트 개발자 (최준호).pdf](https://github.com/user-attachments/files/17266352/default.pdf)
 
 
